@@ -1,0 +1,28 @@
+# Environment variables and credentials
+.env
+.env*.local
+.env.*
+!.env.example
+
+# Python caches and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.log
+
+# Evaluation outputs and local runtime data
+eval_results.csv
+data/conversations_store.json
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,16 @@
+pymongo>=4.7
+google-genai>=2.0.0
+sentence-transformers>=3.0.0
+torch>=2.2.0
+pdfplumber>=0.11
+tiktoken>=0.7
+python-dotenv>=1.0
+numpy>=1.26
+pandas>=2.2
+tqdm>=4.66
+fastapi>=0.110
+uvicorn>=0.29
+
+# Optional -- only needed if you want OCR fallback for scanned PDF pages
+# (e.g. the CEG academic calendar, which has no text layer).
+pytesseract>=0.3

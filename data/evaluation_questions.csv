@@ -1,0 +1,136 @@
+﻿question_id,question,expected_answer,source_document,source_page,difficulty,question_type
+Q001,What programme is covered by the 2026 revised CSE curriculum?,B.E. Computer Science and Engineering,B.E. CSE Curriculum 2026,1,easy,direct_lookup
+Q002,Which campuses are mentioned in the 2026 CSE curriculum?,College of Engineering Guindy (CEG) and Madras Institute of Technology (MIT),B.E. CSE Curriculum 2026,1,easy,direct_lookup
+Q003,Which regulation revision does the 2026 CSE curriculum use?,"Regulations 2023 (Revised 2, 2026)",B.E. CSE Curriculum 2026,1,easy,direct_lookup
+Q004,From which academic year does the 2026 CSE curriculum take effect?,AY 2026–27,B.E. CSE Curriculum 2026,1,easy,direct_lookup
+Q005,How many total credits are shown for the B.E. CSE programme in the 2026 curriculum?,171 credits,B.E. CSE Curriculum 2026,1,easy,direct_lookup
+Q006,How many credits are assigned to Semester I?,21 credits,B.E. CSE Curriculum 2026,2,easy,direct_lookup
+Q007,How many credits are assigned to Semester II?,22 credits,B.E. CSE Curriculum 2026,2,easy,direct_lookup
+Q008,How many credits are assigned to Semester III?,27 credits,B.E. CSE Curriculum 2026,3,easy,direct_lookup
+Q009,How many credits are assigned to Semester IV?,23 credits,B.E. CSE Curriculum 2026,3,easy,direct_lookup
+Q010,How many credits are assigned to Semester V?,26 credits,B.E. CSE Curriculum 2026,4,easy,direct_lookup
+Q011,How many credits are assigned to Semester VI?,27 credits,B.E. CSE Curriculum 2026,5,easy,direct_lookup
+Q012,How many credits are assigned to Semester VII?,17 credits,B.E. CSE Curriculum 2026,6,easy,direct_lookup
+Q013,How many credits are assigned to Semester VIII?,8 credits,B.E. CSE Curriculum 2026,7,easy,direct_lookup
+Q014,What does PCC stand for in the curriculum?,Professional Core Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q015,What does PEC stand for in the curriculum?,Professional Elective Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q016,What does ETC stand for in the curriculum?,Emerging Technology Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q017,What does SDC stand for in the curriculum?,Skill Development Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q018,What does OEC stand for in the curriculum?,Open Elective Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q019,What does SLC stand for in the curriculum?,Self Learning Course,B.E. CSE Curriculum 2026,1,easy,definition
+Q020,What is the course code for Foundation English in Semester I?,EN23C03,B.E. CSE Curriculum 2026,2,easy,course_code
+Q021,How many credits does Calculus carry in Semester I?,4 credits,B.E. CSE Curriculum 2026,2,easy,course_detail
+Q022,What is the course code for Engineering Physics in Semester I?,PH23C11,B.E. CSE Curriculum 2026,2,easy,course_code
+Q023,What is the course code for Programming in C?,CS23C04,B.E. CSE Curriculum 2026,2,easy,course_code
+Q024,How many credits does Programming in C carry?,4 credits,B.E. CSE Curriculum 2026,2,easy,course_detail
+Q025,What category does Computational Thinking belong to?,SDC (Skill Development Course),B.E. CSE Curriculum 2026,2,medium,course_detail
+Q026,How many credits does Computational Thinking carry?,2 credits,B.E. CSE Curriculum 2026,2,easy,course_detail
+Q027,What is the total credit requirement for Semester II?,22 credits,B.E. CSE Curriculum 2026,2,easy,course_detail
+Q028,What is the course code for Object Oriented Programming?,CS23201,B.E. CSE Curriculum 2026,2,easy,course_code
+Q029,What category is Object Oriented Programming in?,PCC,B.E. CSE Curriculum 2026,2,easy,course_detail
+Q030,What is the course code for Data Structures?,CS23302,B.E. CSE Curriculum 2026,3,easy,course_code
+Q031,How many credits does Data Structures carry?,5 credits,B.E. CSE Curriculum 2026,3,easy,course_detail
+Q032,What is the course code for Java Programming?,CS23304,B.E. CSE Curriculum 2026,3,easy,course_code
+Q033,How many credits does Java Programming carry?,5 credits,B.E. CSE Curriculum 2026,3,easy,course_detail
+Q034,Which course in Semester III is worth 3 credits and is categorized as PCC?,Software Engineering,B.E. CSE Curriculum 2026,3,medium,multi_attribute
+Q035,What is the course code for Database Management Systems?,CS23401,B.E. CSE Curriculum 2026,3,easy,course_code
+Q036,How many credits does Database Management Systems carry?,5 credits,B.E. CSE Curriculum 2026,3,easy,course_detail
+Q037,What is the course code for Computer Architecture?,CS23402,B.E. CSE Curriculum 2026,3,easy,course_code
+Q038,How many credits does Full Stack Technologies carry?,4 credits,B.E. CSE Curriculum 2026,3,easy,course_detail
+Q039,What is the course code for Design and Analysis of Algorithms?,CS23404,B.E. CSE Curriculum 2026,3,easy,course_code
+Q040,How many credits does Design and Analysis of Algorithms carry?,3 credits,B.E. CSE Curriculum 2026,3,easy,course_detail
+Q041,What is the course code for Operating Systems?,CS23501,B.E. CSE Curriculum 2026,4,easy,course_code
+Q042,How many credits does Operating Systems carry?,5 credits,B.E. CSE Curriculum 2026,4,easy,course_detail
+Q043,What is the course code for Networks and Data Communication?,CS23502,B.E. CSE Curriculum 2026,4,easy,course_code
+Q044,What is the course code for Theory of Computation?,CS23503,B.E. CSE Curriculum 2026,4,easy,course_code
+Q045,How many credits does Theory of Computation carry?,3 credits,B.E. CSE Curriculum 2026,4,easy,course_detail
+Q046,Which semester contains Operating Systems?,Semester V,B.E. CSE Curriculum 2026,4,easy,cross_reference
+Q047,What is the course code for Engineering Entrepreneurship Development?,UC23E01,B.E. CSE Curriculum 2026,4,easy,course_code
+Q048,What is the course code for Machine Learning?,CS23603,B.E. CSE Curriculum 2026,5,easy,course_code
+Q049,How many credits does Machine Learning carry?,5 credits,B.E. CSE Curriculum 2026,5,easy,course_detail
+Q050,What is the course code for Compiler Design?,CS23602,B.E. CSE Curriculum 2026,5,easy,course_code
+Q051,What is the course code for Cryptography and System Security?,CS23601,B.E. CSE Curriculum 2026,5,easy,course_code
+Q052,How many Professional Electives are listed as separate slots in Semester VI?,Two: Professional Elective II and Professional Elective III,B.E. CSE Curriculum 2026,5,medium,multi_attribute
+Q053,What is the name of the Semester VI skill development project?,Creative and Innovative Project,B.E. CSE Curriculum 2026,5,easy,course_detail
+Q054,How many credits does Creative and Innovative Project carry?,2 credits,B.E. CSE Curriculum 2026,5,easy,course_detail
+Q055,What are the two Emerging Technology course slots in Semester VII?,Emerging Technology Course I and Emerging Technology Course II,B.E. CSE Curriculum 2026,6,easy,direct_lookup
+Q056,How many Professional Elective slots are listed in Semester VII?,"Three: Professional Elective IV, V and VI",B.E. CSE Curriculum 2026,6,medium,counting
+Q057,How many credits is the Semester VII Industry Oriented Course III?,1 credit,B.E. CSE Curriculum 2026,6,easy,course_detail
+Q058,What is the course code for the Semester VIII project/internship course?,CS23801,B.E. CSE Curriculum 2026,7,easy,course_code
+Q059,How many credits does Project Work / Internship cum Project Work carry?,8 credits,B.E. CSE Curriculum 2026,7,easy,course_detail
+Q060,How many professional elective verticals are listed?,Seven,B.E. CSE Curriculum 2026,8,easy,counting
+Q061,What is Vertical I called?,Data Science,B.E. CSE Curriculum 2026,8-9,easy,definition
+Q062,What is the course code for Natural Language Processing?,CS23007,B.E. CSE Curriculum 2026,9,easy,course_code
+Q063,What is Vertical II called?,Full Stack Development,B.E. CSE Curriculum 2026,8-9,easy,definition
+Q064,What is the course code for DevOps?,CS23016,B.E. CSE Curriculum 2026,9,easy,course_code
+Q065,What is Vertical III called?,Cloud Computing and Data Center Technologies,B.E. CSE Curriculum 2026,8-10,easy,definition
+Q066,What is the course code for GPU Computing?,CS23027,B.E. CSE Curriculum 2026,10,easy,course_code
+Q067,What is Vertical IV called?,Cyber Security and Data Privacy,B.E. CSE Curriculum 2026,10,easy,definition
+Q068,What is the course code for Ethical Hacking?,CS23028,B.E. CSE Curriculum 2026,10,easy,course_code
+Q069,What is Vertical V called?,Creative Media,B.E. CSE Curriculum 2026,11,easy,definition
+Q070,What is the course code for Image Processing?,CS23045,B.E. CSE Curriculum 2026,11,easy,course_code
+Q071,What is Vertical VI called?,Emerging Technologies,B.E. CSE Curriculum 2026,11,easy,definition
+Q072,What is the course code for Large Language Models?,CS23049,B.E. CSE Curriculum 2026,11,easy,course_code
+Q073,What is Vertical VII called?,Artificial Intelligence and Machine Learning,B.E. CSE Curriculum 2026,12,easy,definition
+Q074,What is the course code for Responsible AI?,CS23062,B.E. CSE Curriculum 2026,12,easy,course_code
+Q075,What is the course code for Generative AI?,CS23063,B.E. CSE Curriculum 2026,12,easy,course_code
+Q076,How many PECs can be taken to complete the Honours Degree according to the curriculum page?,Any 6 PECs,B.E. CSE Curriculum 2026,12,medium,direct_lookup
+Q077,What is the Foundation English course code in the 2024 CSE curriculum?,EN23C01,B.E. CSE Curriculum 2024,2,medium,version_comparison
+Q078,What is the Foundation English course code in the 2026 CSE curriculum?,EN23C03,B.E. CSE Curriculum 2026,2,medium,version_comparison
+Q079,What is the Semester I mathematics course name in the 2024 CSE curriculum?,Matrices and Calculus,B.E. CSE Curriculum 2024,2,medium,version_comparison
+Q080,What is the Semester I mathematics course name in the 2026 CSE curriculum?,Calculus,B.E. CSE Curriculum 2026,2,medium,version_comparison
+Q081,Which academic year does the 2024 CSE curriculum apply from?,AY 2024–25,B.E. CSE Curriculum 2024,1,easy,version_metadata
+Q082,Which academic year does the 2026 CSE curriculum apply from?,AY 2026–27,B.E. CSE Curriculum 2026,1,easy,version_metadata
+Q083,"To which campuses does Academic Regulations 2023 Revision 1, 2024 apply?","University Departments at CEG, ACT and MIT campuses",UG Regulations 2023 Rev.1 2024,4,easy,scope
+Q084,What is the duration of the regular B.E./B.Tech. programme?,Four years (eight semesters),UG Regulations 2023 Rev.1 2024,7,easy,direct_lookup
+Q085,What is the duration for a lateral-entry student?,Three years (six semesters),UG Regulations 2023 Rev.1 2024,7,easy,direct_lookup
+Q086,How long can the programme completion period be extended for an authorised break of study or course dropping?,One additional year,UG Regulations 2023 Rev.1 2024,8,medium,direct_lookup
+Q087,How many credits can a student register for at maximum in one semester?,36 credits,UG Regulations 2023 Rev.1 2024,19,easy,direct_lookup
+Q088,Can a student re-register for a course that has already been successfully completed?,No,UG Regulations 2023 Rev.1 2024,19,easy,yes_no
+Q089,Within how many weeks from the start of the academic semester can a student drop a course?,Within two weeks,UG Regulations 2023 Rev.1 2024,18,easy,direct_lookup
+Q090,What is the minimum attendance required to appear for the end semester examination?,75% in each course,UG Regulations 2023 Rev.1 2024,22,easy,direct_lookup
+Q091,"If attendance is below 75%, what is the minimum attendance mentioned for medical-certificate consideration?",At least 65%,UG Regulations 2023 Rev.1 2024,22,medium,direct_lookup
+Q092,Within how many days of reporting back must a medical certificate be furnished?,Within 5 days,UG Regulations 2023 Rev.1 2024,22,easy,direct_lookup
+Q093,What happens if attendance in a course is less than 75%?,The student is prevented from appearing in the end semester examination for that course and must repeat the course when next offered.,UG Regulations 2023 Rev.1 2024,22,medium,scenario
+Q094,What is the continuous-assessment and end-semester-examination weightage for Theory courses?,40% continuous assessment and 60% end semester examination,UG Regulations 2023 Rev.1 2024,23,easy,direct_lookup
+Q095,How are the two theory assessment tests and activities weighted?,"Assessment I 40%, Assessment II 40%, Activities 20%",UG Regulations 2023 Rev.1 2024,23,medium,direct_lookup
+Q096,How long is the theory end semester examination?,Three hours,UG Regulations 2023 Rev.1 2024,23,easy,direct_lookup
+Q097,What is the continuous-assessment/end-semester weightage for Laboratory Integrated Theory courses?,50% continuous assessment and 50% end semester examination,UG Regulations 2023 Rev.1 2024,23,easy,direct_lookup
+Q098,What grade point corresponds to S?,10,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q099,What grade point corresponds to A+?,9,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q100,What grade point corresponds to A?,8,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q101,What grade point corresponds to B+?,7,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q102,What grade point corresponds to B?,6,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q103,What grade point corresponds to C?,5,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q104,What grade is used for shortage of attendance?,SA,UG Regulations 2023 Rev.1 2024,44,easy,grade_lookup
+Q105,What is the mark range for grade A in NPTEL/SWAYAM courses?,70–79,UG Regulations 2023 Rev.1 2024,45,medium,range_lookup
+Q106,What is the mark range for grade C in NPTEL/SWAYAM courses?,40–49,UG Regulations 2023 Rev.1 2024,45,medium,range_lookup
+Q107,What is the GPA formula specified in the regulations?,GPA = sum of (course credits × grade points) divided by sum of course credits.,UG Regulations 2023 Rev.1 2024,45,medium,formula
+Q108,To how many decimal places is CGPA computed?,Two decimal places,UG Regulations 2023 Rev.1 2024,45,easy,direct_lookup
+Q109,How is percentage of marks obtained from CGPA?,Percentage of Marks = CGPA × 10,UG Regulations 2023 Rev.1 2024,46,easy,formula
+Q110,What minimum GPA is required in III and IV semesters to opt for a Minor degree?,7.50,UG Regulations 2023 Rev.1 2024,46,easy,direct_lookup
+Q111,How many extra credits are required for a Minor Degree?,18 extra credits,UG Regulations 2023 Rev.1 2024,46,easy,direct_lookup
+Q112,From which semester can a student register for a Minor degree?,From the V semester,UG Regulations 2023 Rev.1 2024,46,easy,direct_lookup
+Q113,From which semester can Honours additional courses be taken?,From the fifth semester onwards,UG Regulations 2023 Rev.1 2024,43,easy,direct_lookup
+Q114,How many additional credits are required for the Honours degree?,18 credits,UG Regulations 2023 Rev.1 2024,43,easy,direct_lookup
+Q115,What GPA is required in III and IV semesters to opt for Honours?,Minimum GPA of 7.5 in both III and IV semesters,UG Regulations 2023 Rev.1 2024,43,medium,direct_lookup
+Q116,What CGPA is required for Honours after successful completion of six elective courses?,"8.50 or higher, without any history of arrears",UG Regulations 2023 Rev.1 2024,45,medium,direct_lookup
+Q117,How many students can be in a Capstone Design Project group?,4 to 6 students,UG Regulations 2023 Rev.1 2024,43-44,easy,direct_lookup
+Q118,Across how many departments must a Capstone Design Project group be spread?,Minimum two and maximum three departments,UG Regulations 2023 Rev.1 2024,43-44,medium,direct_lookup
+Q119,What is the weightage for continuous assessment in Capstone Design Project evaluation?,60%,UG Regulations 2023 Rev.1 2024,44,easy,direct_lookup
+Q120,What is the weightage for project report evaluation plus viva-voce in Capstone Design Project evaluation?,40%,UG Regulations 2023 Rev.1 2024,44,easy,direct_lookup
+Q121,What is the maximum number of Professional Elective/Open Elective registrations required for a PEC/OEC offering?,A minimum registration of 10 students is required to offer a professional elective or open elective course.,UG Regulations 2023 Rev.1 2024,18,medium,scenario
+Q122,What is the maximum number of Off Campus Courses a student can undergo under the listed clause?,Three courses,UG Regulations 2023 Rev.1 2024,21,easy,direct_lookup
+Q123,"How many Off Campus Courses can be registered in one semester, subject to the credit limit?",Two courses per semester,UG Regulations 2023 Rev.1 2024,21,easy,direct_lookup
+Q124,Can a Professional Core Course be substituted by an Off Campus Course?,No,UG Regulations 2023 Rev.1 2024,22,easy,yes_no
+Q125,Within how many working days after regular end semester examinations should results be published?,Within 20 working days,UG Regulations 2023 Rev.1 2024,41,easy,direct_lookup
+Q126,Within how many working days after result publication is Open Day conducted?,Within 5 working days,UG Regulations 2023 Rev.1 2024,41,easy,direct_lookup
+Q127,"If a student fails a Theory/LIT/Laboratory course, what happens to the continuous-assessment marks from the first appearance?",They are retained and remain valid for subsequent attempts until the student passes.,UG Regulations 2023 Rev.1 2024,41-42,medium,scenario
+Q128,"From the third attempt onwards, what minimum end-semester examination mark can allow a student to pass under the specified condition?",50% in the end semester examination alone,UG Regulations 2023 Rev.1 2024,42,hard,scenario
+Q129,How long may one Break of Study normally be taken for bona fide reasons?,One year (two consecutive semesters),UG Regulations 2023 Rev.1 2024,24,easy,direct_lookup
+Q130,"For students who have already completed up to VII semester, how long may a Break of Study be granted for bona fide reasons?",Six months (one semester),UG Regulations 2023 Rev.1 2024,24,medium,direct_lookup
+Q131,What regulation governed B.E. CSE students admitted from academic year 2018–2019 onwards under the RUSA document?,Regulations – RUSA 2018,B.E. CSE RUSA 2018,1,easy,historical_version
+Q132,"Under RUSA 2018, what is the maximum period stated for completing the eight-semester B.E. programme?",Seven years from commencement of the first semester,B.E. CSE RUSA 2018,22,medium,historical_version
+Q133,"Under RUSA 2018, how is GPA calculated conceptually?",As the ratio of the sum of credit × grade-point products to the sum of course credits.,B.E. CSE RUSA 2018,21,medium,formula
+Q134,"Under RUSA 2018, which grades are excluded from GPA/CGPA calculation?",U and SA,B.E. CSE RUSA 2018,21,easy,historical_version
+Q135,"Under RUSA 2018, what is the total minimum credit requirement shown in the regulation table?",185 credits,B.E. CSE RUSA 2018,3,easy,historical_version
